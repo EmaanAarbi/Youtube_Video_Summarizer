@@ -1,0 +1,10 @@
+streamlit
+yt-dlp
+python-dotenv
+langchain
+langchain-openai
+openai
+git+https://github.com/openai/whisper.git
+torch
+torchvision
+torchaudio
