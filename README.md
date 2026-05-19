@@ -14,6 +14,7 @@ An **AI-powered YouTube Summarizer** that:
 - 🎬 Streamlit interface for non-technical users  
 - ⚡ CLI for fast terminal usage  
 
+<img width="800" height="365" alt="19 05 2026_15 53 07_REC-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/eb930016-ef6f-4ad3-ae62-9e37f66a6405" />
 
 
 ---
@@ -72,8 +73,6 @@ pip install yt-dlp
 
 
 
-
-https://github.com/user-attachments/assets/74364fdf-3cf2-4795-95b7-455869393994
 
 
 
