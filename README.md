@@ -14,6 +14,8 @@ An **AI-powered YouTube Summarizer** that:
 - 🎬 Streamlit interface for non-technical users  
 - ⚡ CLI for fast terminal usage  
 
+
+
 ---
 Environment Setup
 
@@ -68,6 +70,10 @@ pip install -r requirements.txt
 #Make sure you have yt-dlp installed:
 pip install yt-dlp
 
+
+
+
+https://github.com/user-attachments/assets/74364fdf-3cf2-4795-95b7-455869393994
 
 
 
